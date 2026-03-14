@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curtain_billy_website_v_1/static/css/main.e6c13ad2.css",
+    "main.js": "/curtain_billy_website_v_1/static/js/main.2ac11aca.js",
+    "static/js/453.e9e7ec89.chunk.js": "/curtain_billy_website_v_1/static/js/453.e9e7ec89.chunk.js",
+    "index.html": "/curtain_billy_website_v_1/index.html",
+    "main.e6c13ad2.css.map": "/curtain_billy_website_v_1/static/css/main.e6c13ad2.css.map",
+    "main.2ac11aca.js.map": "/curtain_billy_website_v_1/static/js/main.2ac11aca.js.map",
+    "453.e9e7ec89.chunk.js.map": "/curtain_billy_website_v_1/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ac11aca.js"
+  ]
+}
